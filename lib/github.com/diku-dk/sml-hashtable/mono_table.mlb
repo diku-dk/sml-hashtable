@@ -1,0 +1,5 @@
+local $(SML_LIB)/basis/basis.mlb
+      table.mlb
+in MONO_TABLE.sig
+   MonoTable.sml
+end

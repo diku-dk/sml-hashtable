@@ -1,0 +1,5 @@
+local $(SML_LIB)/basis/basis.mlb
+      mono_table.mlb
+      hash.mlb
+in StringTable.sml
+end
