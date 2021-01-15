@@ -1,4 +1,4 @@
-# sml-hashtable [![Build Status](https://travis-ci.org/diku-dk/sml-hashtable.svg?branch=master)](https://travis-ci.org/diku-dk/sml-hashtable)
+# sml-hashtable [![CI](https://github.com/diku-dk/sml-hashtable/workflows/CI/badge.svg)](https://github.com/diku-dk/sml-hashtable/actions)
 
 Standard ML library for polymorphic and monomorphic hash tables.
 
